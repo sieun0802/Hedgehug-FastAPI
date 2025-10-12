@@ -10,7 +10,7 @@ FastAPI와 Groq Cloud API를 이용해 실시간 WebSocket 상담을 지원하�
 
 ## 🧠 프로젝트 개요
 
-프로젝트명: 고슴도치 (Hedgehog)
+프로젝트명: 고슴독치 (Hedgehog)
 
 버전: Code v5
 
